@@ -1,2 +1,1 @@
-# fabulosa.github.io
-Homework page for INFO 202
+# Homework page for INFO 202 - Information Retrievel and Organization
