@@ -1,33 +1,33 @@
 {
 	"publications": [{
-		"Title": "Goal-based course recommendation",
-  	"Authors": "Jiang, Weijie, Pardos, Zachary A, and Wei, Qiang",
-  	"Venue": "Proceedings of the 9th International Conference on Learning Analytics \& Knowledge",
-  	"Year": "2019"
-	},
-	{
-		"Title": "Time slice imputation for personalized goal-based recommendation in higher education",
-		"Authors": "Jiang, Weijie and Pardos, Zachary A",
-		"Venue": "Proceedings of the 13th ACM Conference on Recommender Systems",
-		"Year": "2019"
-	},
-	{
-		"Title": "Towards Equity and Algorithmic Fairness in Student Grade Prediction",
-		"Authors": "Jiang, Weijie and Pardos, Zachary A",
-		"Venue": "Proceedings of the 4th AAAI/ACM Conference on AI, Ethics, and Society (AIES’21)",
+		"Title": "Automatically Generating Cause-and_Effect Questions from Passages",
+		"Authors": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
+		"Venue": "BEA Workshop",
 		"Year": "2021"
 	},
 	{
-		"Title": " Evaluating Sources of Course Information and Models of Representation on a Variety of Institutional Prediction Tasks.",
-		"Authors": "Jiang, Weijie and Pardos, Zachary A",
-		"Venue": "International Educational Data Mining Society",
+		"Title": "Automatic Feedback Generation for Dialog-Based Language Tutors Using Transformer Models and Active Learning",
+		"Authors": "Stasaski, K. and Ramanarayanan, V.",
+		"Venue": "Human-in-the-Loop Dialogue Systems Workshop",
 		"Year": "2020"
 	},
 	{
-		"Title": "A Dynamic Bayesian Network Based Collaborative Filtering Model for Multi-stage Recommendation",
-		"Authors": "Jiang, Weijie, Wei, Qiang, and Chen, Guoqing",
-		"Venue": "Advances in Fuzzy Logic and Technology",
+		"Title": "More Diverse Dialogue Datasets via Diversity-Informed Data Collection",
+		"Authors": "Stasaski, K., Yang, G., and Hearst, M.A.",
+		"Venue": "ACL",
+		"Year": "2020"
+	},
+	{
+		"Title": " Construction of a Large Open Access Dialogue Dataset for Tutoring",
+		"Authors": "Stasaski, K., Kao, K., and Hearst, M.A.",
+		"Venue": "BEA Workshop",
+		"Year": "2020"
+	},
+	{
+		"Title": "Multiple Choice Question Generation Utilizing an Ontology",
+		"Authors": "Stasaski, K and Hearst, M.A.",
+		"Venue": "BEA Workshop",
 		"Year": "2017"
 	}]
-
+	
 }
